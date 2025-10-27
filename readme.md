@@ -1,7 +1,7 @@
 # 12. Demonstrate, using Python code and the OpenSSL library, the Diﬃe-Hellman key exchange over elliptic curve group.
-### Chaitnya Modi, Jiya Agrawal, Satvik Bajpai
+### Chaitanya Modi, Jiya Agrawal, Satvik Bajpai
 
-Followiing is the implementation and comparison of ECDH key exchange using Python and OpenSSL.
+Following is the implementation and comparison of ECDH key exchange using Python and OpenSSL.
 
 ## Files
 
