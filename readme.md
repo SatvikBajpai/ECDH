@@ -45,3 +45,5 @@ Both implementations:
 - Save intermediate values for verification
 
 The comparison script validates that Python (cryptography library) and OpenSSL produce byte-identical shared secrets and derived keys, proving correctness across implementations.
+
+We acknowledge that we utilised Claude for assistance in completing this assignment.
